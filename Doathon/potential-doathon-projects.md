@@ -5,7 +5,7 @@
 
 ### OAbot
 
-**Lead: Jake Orlowitz**
+**Lead: Jake Orlowitz** <-- he'll be in the room
 
 **Non-coders**
 
